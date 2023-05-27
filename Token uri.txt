@@ -1,0 +1,6 @@
+{
+  "name": "Love",
+  "symbol": "Love",
+  "description": "Share the love",
+  "image": "https://i.imgur.com/Xkfy3uH.jpg"
+}
