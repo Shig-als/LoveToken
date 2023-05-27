@@ -1,0 +1,9 @@
+{
+  "name": "Love", 
+  "symbol": "Love",
+  "uri": "https://raw.githubusercontent.com/Shig-als/LoveToken/main/Token%20uri.txt",
+  "sellerFeeBasisPoints": 0,
+  "creators": Shigals,
+  "collection": Just a lil,
+  "uses": Utility Token
+}
